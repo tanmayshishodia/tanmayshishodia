@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="300" style="border-radius=10px;"/>
+
+<!-- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="300" style="border-radius=10px;"/> -->
+<!-- <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="400" height="400" style="border-radius=10px;"/> -->
+<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="400" height="400" style="border-radius=10px;"/>
