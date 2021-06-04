@@ -1,4 +1,4 @@
-### Hi there, I'm Tanmay Shishodia <img src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif" width="25px">
+### Hi there, I'm Tanmay Shishodia <!-- <img src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif" width="25px"> -->
 
 <img align="left" alt="GIF" src="https://media.tenor.com/images/6aea6e1797d3ee567de4a6c975e59e3f/tenor.gif" width="308" height="308" />
 
