@@ -4,5 +4,5 @@
 
 <!-- <a href="https://www.linkedin.com/in/tanmayshishodia/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
 <a href="https://twitter.com/tanmayshishodia"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>
-<a href="https://www.instagram.com/tanmayshishodia/"><img src="https://img.icons8.com/doodle/48/000000/instagram--v1.png"/></a>
+<a href="https://www.instagram.com/tanmayshishodia/"><img src="https://img.icons8.com/doodle/48/000000/instagram--v1.png"/></a> 
  -->
